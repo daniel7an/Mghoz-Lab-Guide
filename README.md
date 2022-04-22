@@ -1,3 +1,1 @@
 # Mghoz-Lab-Guide
-
-aaa
