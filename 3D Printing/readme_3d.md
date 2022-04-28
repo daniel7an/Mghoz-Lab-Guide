@@ -1,8 +1,7 @@
 # 3D Priting
 ## Անհրաժեշտ ծրագրեր
-- [Tinkercad](tinkercad.com) (*3D մոդելավորման համար*)
+- [Tinkercad](https://www.tinkercad.com/) (*3D մոդելավորման համար*)
 - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) (gcode-ի գենեռացման համար)
-
 
 ## Վիդեոդասեր
 ### *Tinkercad*
