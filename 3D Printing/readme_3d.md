@@ -13,3 +13,6 @@
 - https://www.youtube.com/watch?v=uzQys6xiCFo&pp=ugMICgJpZBABGAE%3D
 - https://www.youtube.com/watch?v=AvV_lDVGTkk
 - https://www.youtube.com/watch?v=HMqch_L58do&t=12s
+
+## Պատրաստի մոդելներ
+- https://github.com/daniel7an/Mghoz-Lab-Guide/tree/main/3D%20Printing/Resources
