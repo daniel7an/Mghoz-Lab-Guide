@@ -8,5 +8,5 @@
 - [Основы дронов - как летают дроны?](https://www.youtube.com/watch?v=1GNwMhPwFiE)
 
 ### *Արխիվ*
-- [Videos/Photos]()
+- [Videos/Photos](https://github.com/daniel7an/Mghoz-Lab-Guide/tree/main/Drone/Archive)
 
